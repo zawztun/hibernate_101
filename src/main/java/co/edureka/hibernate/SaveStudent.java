@@ -1,4 +1,4 @@
-package co.edureka;
+package co.edureka.hibernate;
 
 
 import co.edureka.hibernate.entity.Student;
